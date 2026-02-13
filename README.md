@@ -32,7 +32,6 @@ Reported metrics: **Accuracy, AUC, Precision, Recall, F1 Score, MCC**
 | Naive Bayes (Gaussian)     | 0.921053 | 0.989087 | 0.923077  | 0.857143 | 0.888889 | 0.829162  |
 | Random Forest (Ensemble)   | 0.973684 | 0.994378 | 1.000000  | 0.928571 | 0.962963 | 0.944155  |
 | XGBoost (Ensemble)         | 0.973684 | 0.992725 | 1.000000  | 0.928571 | 0.962963 | 0.944155  |
-```
 
 ---
 
